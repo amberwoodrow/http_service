@@ -88,5 +88,5 @@ Remember that most Rails apps expect your data for a given model to be nested in
 ## Questions
 
 * What is a service? Is there a Ruby or JavaScript equivalent to Angular services?
-* Explain in as much detail as possible what happens under the hood of $http.get()
-* What is $q and how does it relate to $http?
+* Explain in as much detail as possible what happens under the hood of ``$http.get()``
+* What is ``$q`` and how does it relate to ``$http``?
